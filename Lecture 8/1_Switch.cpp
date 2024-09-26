@@ -31,6 +31,5 @@ int main(){
 /*
 Input : 5
 Output : The value you Entered is : 5
-*/
 
-//In Switch statement nested switch is possible but it is not needed most of the time
+*/

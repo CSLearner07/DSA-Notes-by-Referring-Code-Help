@@ -22,10 +22,3 @@ int main(){
     cout << answer;
     return 0;
 }
-
-/*
-
-Input : 12 , 2
-Output : 144
-
-*/

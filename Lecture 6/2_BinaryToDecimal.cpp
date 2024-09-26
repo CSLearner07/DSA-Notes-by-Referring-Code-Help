@@ -26,12 +26,10 @@ int main(){
 
 /*
 
-Input : 5
+Input : 101
 
-Output : The Binary number for 5 is : 101
+Output : The Binary number for 101 is : 5
 
 */
 
 
-//If you give input out of range then it will print any wrong value that is not a binary example 10000 is out of range 
-//Therefore logic is correct just be careful for range
