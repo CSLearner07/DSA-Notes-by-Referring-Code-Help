@@ -1,0 +1,17 @@
+In this Lecture 10 we have solved below questions
+
+1. Swap Alternate 
+
+2. (i) Find Unique (Code Studio Question)
+   (ii) Unique Number of Occurrences (Leetcode Question)
+
+3. (i) Find duplicates
+   (ii) Find all duplicates in array (Leetcode Question)
+
+4 Array Intersection ( 2 Arrays having common elements )
+
+5. Pair Sum
+
+6. Find Triplets with given Sum
+
+7. Sort 0 1 
